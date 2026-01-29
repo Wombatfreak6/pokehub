@@ -1,6 +1,6 @@
 # PokeHub
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://pokeimage.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://pokeimage-ashy.vercel.app)
 
 PokeHub is a centralized repository for Pokémon-related projects, experiments, and ideas.
 
@@ -8,7 +8,8 @@ This repository is designed to grow over time, serving as a hub for learning, bu
 
 ## 🌐 Live Demo
 A live, deployed web application from this repository can be viewed here:  
-🔗 https://pokeimage.vercel.app
+🔗 https://pokeimage-ashy.vercel.app
+
 
 ## Goals
 - Keep multiple Pokémon-themed projects organized in one place
